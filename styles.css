@@ -1,0 +1,48 @@
+body
+{
+    background-color: #f9f9f9;
+}
+
+.name
+{
+    font: 100 5vw "proxima-nova-1","proxima-nova-2",sans-serif;
+    color: #c5c5c5;
+    text-align: center;
+    padding-top: 20vh;
+    margin-bottom: .7vw;
+    letter-spacing: 10pt;
+}
+
+.wordsHolder
+{
+    text-align: center;
+    width: 30vw;
+    margin-left: auto;
+    margin-right: auto;
+    height: 3vw;
+}
+
+.wordItem
+{
+    color: #cccccc;
+    display: inline-block;
+    font: 100 1.7vw "proxima-nova-1","proxima-nova-2",sans-serif;
+    opacity: 0;
+}
+
+#engineer
+{
+    float: left;
+}
+
+#designer
+{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#creator
+{
+    float: right;
+}
+
